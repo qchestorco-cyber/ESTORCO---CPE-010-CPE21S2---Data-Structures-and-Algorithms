@@ -1,7 +1,7 @@
 # ESTORCO---CPE-010-CPE21S2---Data-Structures-and-Algorithms
 Compilation of all Hands On Activity (LAST QUIZ) 
 
-**# Hi there, I'm Clint Estorco 👋
+Hi there, I'm Clint Hoven A. Estorco 👋
 
 🎓 **Computer Engineering Student** | 💻 **CPE 010 - CPE21S2: Data Structures and Algorithms**
 
