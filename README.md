@@ -4,7 +4,6 @@
 <!-- PROJECT SHIELDS -->
 <div align="center">
   
-[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
@@ -17,7 +16,6 @@
 <br />
 <div align="center">
   <a href="https://github.com/YourUsername/ESTORCO---CPE-010-CPE21S2">
-    <!-- Using the local bongo-cat GIF you saved earlier as the project mascot/logo -->
     <img src="./bongo-cat.gif" alt="Logo" width="200" height="auto">
   </a>
 
@@ -52,7 +50,7 @@
         <li><a href="#installation-and-execution">Installation and Execution</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage & Directory Structure</a></li>
+    <li><a href="#directory-navigation">Directory Navigation</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -66,7 +64,7 @@
 👋 **Hi there, I'm Clint Hoven A. Estorco**  
 🎓 Computer Engineering Student | 💻 CPE 010 - CPE21S2
 
-Welcome to my academic repository for **CPE 010 (Data Structures and Algorithms)**! This workspace serves as a digital portfolio compiling all my hands-on activities, coding assignments, and the final quiz outputs. The primary focus of this course is understanding how to organize data efficiently and write algorithms that scale perfectly.
+Welcome to my academic repository for **CPE 010 (Data Structures and Algorithms)**! This workspace serves as a digital portfolio compiling all my hands-on activities, coding assignments, and the final quiz outputs. 
 
 ```yaml
 🏫 Program: BS Computer Engineering (CPE)
