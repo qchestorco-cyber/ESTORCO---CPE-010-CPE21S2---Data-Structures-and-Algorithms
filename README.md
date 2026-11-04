@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=0:00599C,100:3776AB&height=200&section=header&text=Data%20Structures%20%26%20Algorithms&fontSize=42&fontColor=ffffff&animation=fadeIn)
+![Header Banner](https://tenor.com/view/bongo-cat-playing-piano-music-gif-14067995)
 
 ![Repository Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=github)
 ![Course](https://img.shields.io/badge/Course-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge&logo=cplusplus)
