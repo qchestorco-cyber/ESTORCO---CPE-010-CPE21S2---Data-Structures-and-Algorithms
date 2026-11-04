@@ -2,11 +2,6 @@
 
 <div align="center">
 
-<!-- Exact Bongo Cat Playing Piano GIF from Tenor (14067995) -->
-<img src="https://c.tenor.com/2UY1273943AAAAAC/bongo-cat-playing-piano.gif" width="500" alt="Bongo Cat Playing Piano" />
-
-<br/><br/>
-
 ![Repository Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=github)
 ![Course](https://img.shields.io/badge/Course-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge&logo=cplusplus)
 ![Academic Year](https://img.shields.io/badge/AY-2026--2027-orange?style=for-the-badge)
