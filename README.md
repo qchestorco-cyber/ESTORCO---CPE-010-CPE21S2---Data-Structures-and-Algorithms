@@ -2,17 +2,11 @@
 
 <div align="center">
 
-![Header Banner](https://tenor.com/view/bongo-cat-playing-piano-music-gif-14067995)
-
 ![Repository Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=github)
 ![Course](https://img.shields.io/badge/Course-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge&logo=cplusplus)
 ![Academic Year](https://img.shields.io/badge/AY-2026--2027-orange?style=for-the-badge)
 
 🚀 **Compilation of all Hands On Activity (LAST QUIZ)** 🚀
-
-<br/>
-
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGcxMm1zMXdybjkyZnl6amx1aGJzeTRjY21rYWpibWdqMWxydzY4dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svvAQQyVY9/giphy.gif" width="400px" alt="Coding GIF"/>
 
 </div>
 
