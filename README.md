@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated Header GIF -->
-<img src="https://media.giphy.com/media/qgQUGGAC3P4PP93825/giphy.gif" width="600" alt="Coding Banner GIF" />
+<img src="https://tenor.com/view/bongo-cat-playing-piano-music-gif-14067995" width="600" alt="Coding Banner GIF" />
 
 <br/><br/>
 
