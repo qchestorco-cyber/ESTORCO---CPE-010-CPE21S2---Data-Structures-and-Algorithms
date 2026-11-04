@@ -4,12 +4,6 @@
 <!-- PROJECT SHIELDS -->
 <div align="center">
   
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![Course][course-shield]][course-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 </div>
 
 <!-- PROJECT LOGO -->
