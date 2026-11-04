@@ -2,8 +2,8 @@
 
 <div align="center">
 
-<!-- Animated Header GIF -->
-<img src="https://tenor.com/view/bongo-cat-playing-piano-music-gif-14067995" width="600" alt="Coding Banner GIF" />
+<!-- Animated Header GIF: Bongo Cat Playing Piano -->
+<img src="https://media.tenor.com/79_uE49OqLgAAAAC/bongo-cat-playing-piano.gif" width="500" alt="Bongo Cat Playing Piano" />
 
 <br/><br/>
 
