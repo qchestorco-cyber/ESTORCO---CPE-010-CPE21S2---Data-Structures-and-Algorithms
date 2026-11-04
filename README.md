@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Animated Header GIF: Bongo Cat Playing Piano -->
-<img src="https://media.tenor.com/79_uE49OqLgAAAAC/bongo-cat-playing-piano.gif" width="500" alt="Bongo Cat Playing Piano" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWp3d2JicTlyenJrcmJvZHBnNmYxdmI2ZzB6Z2lsYTVkOHkxdnlsZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93lEttRMS3UpxcIvPG/giphy.gif" width="500" alt="Bongo Cat Playing Piano" />
 
 <br/><br/>
 
