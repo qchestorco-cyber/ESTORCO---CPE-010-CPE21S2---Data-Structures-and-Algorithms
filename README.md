@@ -2,6 +2,11 @@
 
 <div align="center">
 
+<!-- Animated Header GIF -->
+<img src="https://media.giphy.com/media/qgQUGGAC3P4PP93825/giphy.gif" width="600" alt="Coding Banner GIF" />
+
+<br/><br/>
+
 ![Repository Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge&logo=github)
 ![Course](https://img.shields.io/badge/Course-Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge&logo=cplusplus)
 ![Academic Year](https://img.shields.io/badge/AY-2026--2027-orange?style=for-the-badge)
