@@ -1,13 +1,5 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a id="readme-top"></a>
 
-<!-- PROJECT SHIELDS -->
-<div align="center">
-  
-</div>
-
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
   <a href="https://github.com/YourUsername/ESTORCO---CPE-010-CPE21S2">
     <img src="./bongo-cat.gif" alt="Logo" width="200" height="auto">
@@ -16,43 +8,14 @@
   <h3 align="center">⚡ CPE 010: Data Structures and Algorithms</h3>
 
   <p align="center">
-    Compilation of all Hands On Activity (LAST QUIZ) for A.Y. 2026-2027
+    Compilation of all Hands On Activities (LAST QUIZ) for A.Y. 2026-2027
     <br />
     <a href="https://github.com/YourUsername/ESTORCO---CPE-010-CPE21S2"><strong>Explore the activities »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/YourUsername/ESTORCO---CPE-010-CPE21S2/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/YourUsername/ESTORCO---CPE-010-CPE21S2/issues">Request Feature</a>
   </p>
 </div>
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation-and-execution">Installation and Execution</a></li>
-      </ul>
-    </li>
-    <li><a href="#directory-navigation">Directory Navigation</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-  </ol>
-</details>
+---
 
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 👋 **Hi there, I'm Clint Hoven A. Estorco**  
