@@ -9,8 +9,6 @@
 
   <p align="center">
     Compilation of all Hands On Activities (LAST QUIZ) for A.Y. 2026-2027
-    <br />
-    <a href="https://github.com/YourUsername/ESTORCO---CPE-010-CPE21S2"><strong>Explore the activities »</strong></a>
   </p>
 </div>
 
